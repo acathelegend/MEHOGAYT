@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/natoloe009/SCRIPT-ROBLOX/main/Orion%20KaGa.lua')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/acathelegend/MEHOGAYT/main/Mehogarion')))()
 local Window = OrionLib:MakeWindow({Name = "MehogaYT HUB | KaGaHUB UI", HidePremium = true, SaveConfig = false, IntroEnabled = false, ConfigFolder = "AcathelegendConfig"})
 
 local Tab = Window:MakeTab({
